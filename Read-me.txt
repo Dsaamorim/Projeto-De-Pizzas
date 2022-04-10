@@ -1,0 +1,3 @@
+Fiz uma página com interface básica com intuito de mostrar conhecimento em Javscript
+Onde o usuário calcula 3 sabores de pizzas, podendo pedir estorno e exportar uma planilha. 
+
